@@ -28,7 +28,7 @@ const Home = () => {
 
     return (
         <div>
-            <h1 className='text-center text-xl md:text-4xl my-10 font-semibold'>Welcome to <span className='text-indigo-600 '>Las Vegas hotel</span> booking</h1>
+            <h1 className='text-center text-xl md:text-4xl my-10 font-semibold'>Welcome to <span className='text-indigo-600 '>Las Vegas Hotel</span> booking</h1>
             <div className='w-10/12 mx-auto grid grid-cols-1 md:grid-cols-2 gap-10'>
             {
                 products.map(hotel => <Card
