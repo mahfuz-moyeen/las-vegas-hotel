@@ -1,0 +1,34 @@
+[
+    {
+        "id": "hotel_1",
+        "name": "The Venetian Resort Las Vegas",
+        "img": "/hotel img/room01.jpg",
+        "price": 450,
+        "quantity": 0,
+        "rate": 4.5
+    },
+    {
+        "id": "hotel_2",
+        "name": "Treasure Island - TI Hotel & Casino, a Radisson Hotel",
+        "img": "/hotel img/room02.jpg",
+        "price": 450,
+        "quantity": 0,
+        "rate": 4.5
+    },
+    {
+        "id":"hotel_3",
+        "name": "Paris Las Vegas",
+        "img": "/hotel img/room03.jpg",
+        "price": 450,
+        "quantity": 0,
+        "rate": 4.5
+    },
+    {
+        "id": "hotel_4",
+        "name": "Treasure Island - TI Hotel & Casino, a Radisson Hotel",
+        "img": "/hotel img/room04.jpg",
+        "price": 450,
+        "quantity": 0,
+        "rate": 4.5
+    }
+]
